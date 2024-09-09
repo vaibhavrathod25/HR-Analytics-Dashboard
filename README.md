@@ -6,7 +6,7 @@ This repository features an interactive HR Analytics Dashboard developed using P
 
 **Key Features**
 
-**1-Interactive Dashboard:** 
+**1-Interactive Dashboard:**
 A user-friendly interface that allows for dynamic data exploration and visualization.
 Advanced Data Cleaning: Implemented sophisticated data cleaning techniques to ensure data integrity and reliability, resulting in an 80% improvement in data accuracy.
 Enhanced Analytics: Utilized DAX (Data Analysis Expressions) functions to create custom calculations and metrics, improving dashboard analytics by 75%.
